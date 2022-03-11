@@ -10,3 +10,20 @@ if (num % 2)==0:
 
 else 
 	print("the number is odd")//print odd statement
+
+
+a= int (input("enter any number"))
+
+b =int (input("enter any number"))
+
+sub =a-b
+
+print substract
+
+num1 = int (input("enter any number"))
+
+num2 =int (input("enter any number"))
+
+add = num1+num2
+
+print add
